@@ -1,0 +1,7 @@
+#Comandos para criação de ambiente no anaconda
+conda env list
+conda env create -f environment.yml
+conda activate [nome do env]
+
+#lista os arquivos na pasta em forma de lista
+ls -l
